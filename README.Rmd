@@ -3,6 +3,9 @@ title: "Data and models for Lai et al. (2021) *Ecol. Lett.*"
 output: github_document
 ---
 
+`r badger::badge_doi("10.5281/zenodo.4718769", "green")`
+`r badger::badge_license("MIT")`
+
 # Preamble
 
 Welcome! This is a repository for the data and models in our paper:
@@ -11,7 +14,7 @@ Welcome! This is a repository for the data and models in our paper:
 
 # Usage 
 
-You could either clone our GitHub repository or, if you're unfamiliar with GitHub, download the released zip file.
+You could either [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) our GitHub repository or, if you're unfamiliar with GitHub, download the [released zip file](https://github.com/hrlai/Lai_et_al_2021_EcolLett_Trait_Age/releases).
 
 The `R` script `R/reproducibility.R` is basically all you need to extract data or examine model outputs from the two models: the recruitment model `data/recruitment_model.rds` and the mortality model `data/mortality_model.rds`. Please see the script for instructions. The rest of the scripts in the `R` folder are axillary scripts to mainly to reproduce figures.
 

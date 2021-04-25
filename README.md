@@ -1,6 +1,10 @@
 Data and models for Lai et al. (2021) *Ecol. Lett.*
 ================
 
+[![](https://img.shields.io/badge/doi-10.5281/zenodo.4718769-green.svg)](https://doi.org/10.5281/zenodo.4718769)
+[![License:
+MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
+
 # Preamble
 
 Welcome! This is a repository for the data and models in our paper:
@@ -12,8 +16,11 @@ Welcome! This is a repository for the data and models in our paper:
 
 # Usage
 
-You could either clone our GitHub repository or, if you’re unfamiliar
-with GitHub, download the released zip file.
+You could either
+[clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+our GitHub repository or, if you’re unfamiliar with GitHub, download the
+[released zip
+file](https://github.com/hrlai/Lai_et_al_2021_EcolLett_Trait_Age/releases).
 
 The `R` script `R/reproducibility.R` is basically all you need to
 extract data or examine model outputs from the two models: the
