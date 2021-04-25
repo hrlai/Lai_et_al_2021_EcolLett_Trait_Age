@@ -10,7 +10,7 @@ output: github_document
 
 Welcome! This is a repository for the data and models in our paper:
 
-> Lai H. R., Craven D., Hall, J., Hui F. K. C., van Breugel, M. (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait−demography relationships. *Ecology Letters*.
+> Lai H. R., Craven D., Hall, J. S., Hui F. K. C., van Breugel, M. (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait−demography relationships. *Ecology Letters*.
 
 # Usage 
 
