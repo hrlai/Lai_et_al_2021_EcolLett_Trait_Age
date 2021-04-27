@@ -51,21 +51,6 @@ S.boral    <- readRDS(file = "data/mortality_model.rds")
 # also import dimension names for the input matrices of JSDM
 dim_names  <- readRDS(file = "data/dim_names.rds")
 
-# also import predictions made from the boral models above
-# these files are mostly to reproduce the figures
-# load(file = "R.nb.pred.Rdata")
-# load(file = "S.pred.Rdata")
-# load(file = "R.nb.unitrait.pred.Rdata")
-# load(file = "S.unitrait.pred.Rdata")
-# load(file = "R.nb.multtrait.pred.Rdata")
-# load(file = "S.multtrait.pred.Rdata")
-# load(file = "imaginary.spp.unitrait.R.Rdata")
-# load(file = "imaginary.spp.unitrait.S.Rdata")
-# load(file = "imaginary.spp.multtrait.R.Rdata")
-
-# also load population simulation results
-# load(file = "N.pred.summary.hypo.RData")
-
 # also import mean and scale of age covariate and traits for backscaling
 X_attr <- readRDS(file = "data/X_attr.rds")
 Z_attr <- readRDS(file = "data/Z_attr.rds")
