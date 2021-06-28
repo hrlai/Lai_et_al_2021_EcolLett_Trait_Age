@@ -3,14 +3,15 @@ title: "Data and models for Lai et al. (2021) *Ecol. Lett.*"
 output: github_document
 ---
 
-`r badger::badge_doi("10.5281/zenodo.4718769", "green")`
+`r badger::badge_custom("zenodo", "10.5281/zenodo.4718769", "yellow", "https://doi.org/10.5281/zenodo.4718769")`
+`r badger::badge_custom("article", "10.1111/ele.13784", "green", "https://doi.org/10.1111/ele.13784")`
 `r badger::badge_license("MIT")`
 
 # Preamble
 
 Welcome! This is a repository for the data and models in our paper:
 
-> Lai H. R., Craven D., Hall, J. S., Hui F. K. C., van Breugel, M. (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait−demography relationships. *Ecology Letters*.
+> Lai H. R., Craven D., Hall, J. S., Hui F. K. C., van Breugel, M. (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait−demography relationships. *Ecology Letters*. DOI: 10.1111/ele.13784
 
 # Usage 
 
@@ -20,7 +21,7 @@ The `R` script `R/reproducibility.R` is basically all you need to extract data o
 
 # Citation
 
-Lai H. R., Craven D., Hall, J., Hui F. K. C., van Breugel, M. (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait−demography relationships. *Ecology Letters*.
+Lai H. R., Craven D., Hall, J., Hui F. K. C., van Breugel, M. (2021) Successional syndromes of saplings in tropical secondary forests emerge from environment-dependent trait−demography relationships. *Ecology Letters*. DOI: 10.1111/ele.13784
 
 # Contact
 

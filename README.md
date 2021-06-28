@@ -1,7 +1,8 @@
 Data and models for Lai et al. (2021) *Ecol. Lett.*
 ================
 
-[![](https://img.shields.io/badge/doi-10.5281/zenodo.4718769-green.svg)](https://doi.org/10.5281/zenodo.4718769)
+[![](https://img.shields.io/badge/zenodo-10.5281/zenodo.4718769-yellow.svg)](https://doi.org/10.5281/zenodo.4718769)
+[![](https://img.shields.io/badge/article-10.1111/ele.13784-green.svg)](https://doi.org/10.1111/ele.13784)
 [![License:
 MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.org/web/licenses/MIT)
 
@@ -9,10 +10,10 @@ MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://cran.r-project.
 
 Welcome! This is a repository for the data and models in our paper:
 
-> Lai H. R., Craven D., Hall, J., Hui F. K. C., van Breugel, M. (2021)
-> Successional syndromes of saplings in tropical secondary forests
-> emerge from environment-dependent trait−demography relationships.
-> *Ecology Letters*.
+> Lai H. R., Craven D., Hall, J. S., Hui F. K. C., van Breugel, M.
+> (2021) Successional syndromes of saplings in tropical secondary
+> forests emerge from environment-dependent trait−demography
+> relationships. *Ecology Letters*. DOI: 10.1111/ele.13784
 
 # Usage
 
@@ -34,7 +35,7 @@ reproduce figures.
 Lai H. R., Craven D., Hall, J., Hui F. K. C., van Breugel, M. (2021)
 Successional syndromes of saplings in tropical secondary forests emerge
 from environment-dependent trait−demography relationships. *Ecology
-Letters*.
+Letters*. DOI: 10.1111/ele.13784
 
 # Contact
 
